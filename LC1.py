@@ -1,5 +1,4 @@
 # -*- coding:utf-8 -*-
-import random
 
 """
 大佬牛逼
